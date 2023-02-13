@@ -1,11 +1,7 @@
-<span>Everyones want to make helpful invention,</span>
+<span>Everyones want to make helpful inventions,</span>
 
 ```js
-  var i_need_help = function(content) {
-    return "i_need_to"
+  var need_help = content => {
+    return "??"
   }
 ```
-
-<div style="background:#000;color:#fff;float:right;width:50vw;text-align:center">
- <img src="arrow.svg" width="100px" height="100px">
-</div>
