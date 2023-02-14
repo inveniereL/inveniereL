@@ -24,6 +24,6 @@
 * or should i say, ```what's what```
 
 <div align="center">
-  <img src="arrow.svg">
   <p>thts the arrow</p>
+  <p>thts the arrow...</p>
 </div>
