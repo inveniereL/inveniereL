@@ -1,15 +1,13 @@
-* Everyones want to make helpful inventions ...
-<div align=center>
-```py
-  * leanguages *
-  python(py)
-  javaScript(js)
-  > Nodejs
+<!-- * Everyones want to make helpful inventions ... -->
+
+<div align="left">
+
+ ```py
+    * Leanguages *      |    * url *
+                        |    
+    > python(py)        |    > leed 
+    > javaScript(js)    |    >
+      > Nodejs          |    >
 ```
-```js
-  * communication *
-  
-  discord(py)
-  phone(js)
-```
+ 
 </div>
