@@ -6,8 +6,8 @@
     * Leanguages *      |    * url *
                         |    
     > python(py)        |    > leed 
-    > javaScript(js)    |    >
-      > Nodejs          |    >
+    > javaScript(js)    |    > ...
+      > Nodejs          |    > ...
 ```
  
 </div>
